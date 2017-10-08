@@ -16,16 +16,16 @@
 	{
 		"venue": "AAAI",
 		"area": "AI",
-		"deadline": "9/9/2016",
-		"link": "http://www.aaai.org/Conferences/AAAI/aaai17.php",
-		"location": "San Francisco, California USA"
+		"deadline": "9/11/2017 23:59 UTC-10",
+		"link": "https://aaai.org/Conferences/AAAI-18/aaai18call/",
+		"location": "New Orleans, Lousiana, USA"
 	},
 	{
 	    "venue": "ICLR",
 	    "area": "Learning Representations",
-	    "deadline": "11/5/2016 UTC-5",
+	    "deadline": "10/27/2017 17:00 UTC-5",
 	    "link": "http://www.iclr.cc/",
-		"location": "Toulon, France"
+		"location": "Vancouver, BC, Canada"
 	},
 	{
 		"venue": "AISTATS",
@@ -37,7 +37,7 @@
 	{
 	    "venue": "ESANN",
 	    "area": "European Symposium on Artificial Neural Networks",
-	    "deadline": "11/26/2016",
+	    "deadline": "11/20/2017 23:59",
 	    "link": "https://www.elen.ucl.ac.be/esann/",
 		"location": "Bruges, Belgium"
 	},
@@ -50,29 +50,29 @@
 	{
 		"venue": "ACML",
 		"area": "Machine Learning",
-		"deadline": "8/15/2016 23:59 UTC-8",
-		"link": "http://www.acml-conf.org/2016/"
+		"deadline": "8/05/2017 23:59 UTC-8",
+		"link": "http://www.acml-conf.org/2017/"
 	},
 	{
 		"venue": "IJCAI",
 		"area": "AI",
-		"deadline": "2/19/2017 23:59 UTC+12",
-		"link": "http://ijcai-17.org",
-		"location": "Melbourne, Australia"
+		"deadline": "1/31/2018 23:59",
+		"link": "http://ijcai-18.org",
+		"location": "Stockholm, Sweden"
 	},
 	{
-		"venue": "ECML-PKDD",
+		"venue": "ECML-PKDD (Journal Track)",
 		"area": "Machine Learning",
-		"deadline": "4/20/2017 23:59 UTC+1",
-		"link": "http://ecmlpkdd2017.ijs.si",
-		"location": "Scopje, Macedonia"
+		"deadline": "11/5/2017 23:59",
+		"link": "http://www.ecmlpkdd2018.org/",
+		"location": "Dublin, Ireland"
 	},
 	{
 		"venue": "NIPS",
 		"area": "Machine Learning",
 		"deadline": "05/19/2017 20:00 UTC",
-		"link": "https://nips.cc/Conferences/2017",
-		"location": "Long Beach, USA"
+		"link": "https://nips.cc/Conferences/2018",
+		"location": "Montréal CANADA"
 	},
 	{
 		"venue": "MLSP",
@@ -84,23 +84,23 @@
 	{
 		"venue": "ECAI",
 		"area": "AI",
-		"deadline": "5/15/2017 23:59:59 UTC+1",
+		"deadline": "1/31/2018 23:59",
 		"link": "http://ecai.ro",
-		"location": "Targoviste, Romania"
+		"location": "Stockholm, Sweden"
 	},
 	{
 		"venue": "ICML",
 		"area": "Machine Learning",
 		"deadline": "2/24/2017 23:59 UTC",
 		"link": "http://icml.cc",
-		"location": "Sydney, Australia"
+		"location": "Stockholm SWEDEN"
 	},
 	{
 		"venue": "KDD",
 		"area": "Data Mining",
 		"deadline": "2/17/2017 23:59 UTC-8",
 		"link": "http://www.kdd.org",
-		"location": "Halifax, Nova Scotia, Canada"
+		"location": "London, UK"
 	},
 	{
 		"venue": "UAI", 
