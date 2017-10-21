@@ -9,9 +9,9 @@
 	{
 		"venue": "ICDM",
 		"area": "Data Mining",
-		"deadline": "6/5/2017 23:59 UTC+8",
-		"link": "http://icdm2017.bigke.org/",
-		"location": "New Orleans, USA"
+		"deadline": "11/17/2017",
+		"link": "https://www.waset.org/conference/2018/07/istanbul/ICDM",
+		"location": "Istanbul, Turkey"
 	},
 	{
 		"venue": "AAAI",
@@ -44,7 +44,7 @@
 	{
 	    "venue": "SPARS",
 	    "area": "Signal Processing with Adaptive Sparse Structured Representations",
-	    "deadline": "12/12/2016",
+	    "deadline": "01/03/2017",
 	    "link": "http://spars2017.lx.it.pt/"
 	},
 	{
@@ -52,13 +52,6 @@
 		"area": "Machine Learning",
 		"deadline": "8/05/2017 23:59 UTC-8",
 		"link": "http://www.acml-conf.org/2017/"
-	},
-	{
-		"venue": "IJCAI",
-		"area": "AI",
-		"deadline": "1/31/2018 23:59",
-		"link": "http://ijcai-18.org",
-		"location": "Stockholm, Sweden"
 	},
 	{
 		"venue": "ECML-PKDD (Journal Track)",
@@ -82,10 +75,10 @@
 		"location": "Roppongi, Tokyo, Japan"
 	},
 	{
-		"venue": "ECAI",
+		"venue": "IJCAI-ECAI",
 		"area": "AI",
 		"deadline": "1/31/2018 23:59",
-		"link": "http://ecai.ro",
+		"link": "https://www.ijcai-18.org/",
 		"location": "Stockholm, Sweden"
 	},
 	{
@@ -103,7 +96,7 @@
 		"location": "London, UK"
 	},
 	{
-		"venue": "UAI", 
+		"venue": "UAI",
 		"area": "Machine Learning",
 		"deadline": "3/31/2017 23:59 UTC-11",
 		"link": "http://auai.org/",
@@ -112,9 +105,9 @@
 	{
 		"venue": "CVPR",
 		"area": "Computer Vision",
-		"deadline": "11/15/2016 1:00 UTC",
+		"deadline": "11/15/2017 1:00 UTC",
 		"link": "http://cvpr2017.thecvf.com/",
-		"location": "Honolulu, Hawwaii"
+		"location": "Salt Lake City, Utah"
 	},
 	{
 		"venue": "CIKM",
