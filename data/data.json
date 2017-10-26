@@ -10,6 +10,11 @@
 		"venue": "ICDM",
 		"area": "Data Mining",
 		"deadline": "11/17/2017",
+		"conference_dates":
+		{
+			"start": "07/23/2018",
+			"end": "07/24/2018"
+		},
 		"link": "https://www.waset.org/conference/2018/07/istanbul/ICDM",
 		"location": "Istanbul, Turkey"
 	},
@@ -24,6 +29,11 @@
 	    "venue": "ICLR",
 	    "area": "Learning Representations",
 	    "deadline": "10/27/2017 17:00 UTC-5",
+			"conference_dates":
+			{
+				"start": "04/30/2018",
+				"end": "05/03/2018"
+			},
 	    "link": "http://www.iclr.cc/",
 		"location": "Vancouver, BC, Canada"
 	},
@@ -35,10 +45,15 @@
 		"location": "Playa Blanca, Lanzarote"
 	},
 	{
-	    "venue": "ESANN",
-	    "area": "European Symposium on Artificial Neural Networks",
-	    "deadline": "11/20/2017 23:59",
-	    "link": "https://www.elen.ucl.ac.be/esann/",
+    "venue": "ESANN",
+    "area": "European Symposium on Artificial Neural Networks",
+    "deadline": "11/20/2017 23:59",
+		"conference_dates":
+		{
+			"start": "04/25/2018",
+			"end": "04/27/2018"
+		},
+		"link": "https://www.elen.ucl.ac.be/esann/",
 		"location": "Bruges, Belgium"
 	},
 	{
@@ -56,6 +71,11 @@
 	{
 		"venue": "ECML-PKDD (Journal Track)",
 		"area": "Machine Learning",
+		"conference_dates":
+		{
+			"start": "09/10/2018",
+			"end": "09/14/2018"
+		},
 		"deadline": "11/5/2017 23:59",
 		"link": "http://www.ecmlpkdd2018.org/",
 		"location": "Dublin, Ireland"
@@ -78,6 +98,11 @@
 		"venue": "IJCAI-ECAI",
 		"area": "AI",
 		"deadline": "1/31/2018 23:59",
+		"conference_dates":
+		{
+			"start": "07/13/2018",
+			"end": "07/19/2018"
+		},
 		"link": "https://www.ijcai-18.org/",
 		"location": "Stockholm, Sweden"
 	},
@@ -85,6 +110,11 @@
 		"venue": "ICML",
 		"area": "Machine Learning",
 		"deadline": "2/24/2017 23:59 UTC",
+		"conference_dates":
+		{
+			"start": "07/10/2018",
+			"end": "07/15/2018"
+		},
 		"link": "http://icml.cc",
 		"location": "Stockholm SWEDEN"
 	},
@@ -106,7 +136,12 @@
 		"venue": "CVPR",
 		"area": "Computer Vision",
 		"deadline": "11/15/2017 1:00 UTC",
-		"link": "http://cvpr2017.thecvf.com/",
+		"conference_dates":
+		{
+			"start": "06/18/2018",
+			"end": "06/22/2018"
+		},
+		"link": "http://cvpr2018.thecvf.com/",
 		"location": "Salt Lake City, Utah"
 	},
 	{

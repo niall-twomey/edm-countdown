@@ -26,6 +26,7 @@ var timeLeftDescription = function(x) {
 // Note: data is a list of json objects of this form containing, "venue", "area", "deadline" as parsable string for data (see http://www.w3schools.com/js/js_dates.asp) and optionally "approx" that indicates if the date is just based on a previous date
 var deadlines = new Array();
 var deadlines_approx = new Array();
+// var conference_dates = new Array();
 // probably not the best idea to make it synchronous, but the quick and dirty hack works for now
 $.ajaxSetup({'async': false});
 $.getJSON(datasource, function(data) {
@@ -50,6 +51,11 @@ $.getJSON(datasource, function(data) {
   deadlines_approx.sort(function(a,b) {
     return a.deadline.getTime() - b.deadline.getTime();
   });
+
+  // conference_dates.push({
+  //   start: new Date(d.conference_dates.start),
+  //   end: new Date(d.conference_dates.end)
+  // });
 });
 
 // Friday, March 1st, 11:59pm UTC
@@ -94,11 +100,20 @@ function refreshDeadline(i, dl, dc, deadlines__){
   if("link" in dl)
     venue = "<span class=\"vld\" id=\"link"+suffix+i+"\">" + venue + "</span>";
 
+  if("conference_dates" in dl) {
+    conference_dates =
+      new Date(dl.conference_dates.start).toDateString().slice(0, -5) + " to "
+      + new Date(dl.conference_dates.end).toDateString();
+  } else {
+    conference_dates = "Not known";
+  }
+
   $("#deadline" + suffix + i).html(
     "<div class=\"tld\">" + timeLeftDescription(timeLeft) + "</div>"
   + "<div class=\"vd\">" + venue + "</div>"
   + "<div class=\"ad\">" + dl.area + "</div>"
   + "<div class=\"td\"> Deadline: " + dl.deadline.toUTCString() + "</div>"
+  + "<div class=\"cd\"> Conference Dates: " + conference_dates + "</div>"
   + "<div class=\"wd\">" + warningString + "</div>"
   + "<div class=\"hd\" id=\"hide"+suffix+i+"\">hide</div>"
   );
