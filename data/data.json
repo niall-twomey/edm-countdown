@@ -45,9 +45,9 @@
 		"location": "Playa Blanca, Lanzarote"
 	},
 	{
-    "venue": "ESANN",
-    "area": "European Symposium on Artificial Neural Networks",
-    "deadline": "11/20/2017 23:59",
+    		"venue": "ESANN",
+		"area": "European Symposium on Artificial Neural Networks",
+    		"deadline": "11/20/2017 23:59",
 		"conference_dates":
 		{
 			"start": "04/25/2018",
@@ -57,10 +57,10 @@
 		"location": "Bruges, Belgium"
 	},
 	{
-	    "venue": "SPARS",
-	    "area": "Signal Processing with Adaptive Sparse Structured Representations",
-	    "deadline": "01/03/2017",
-	    "link": "http://spars2017.lx.it.pt/"
+		"venue": "SPARS (not till 2019!)",
+		"area": "Signal Processing with Adaptive Sparse Structured Representations",
+		"deadline": "01/03/2017",
+		"link": "http://spars2017.lx.it.pt/"
 	},
 	{
 		"venue": "ACML",
@@ -109,7 +109,7 @@
 	{
 		"venue": "ICML",
 		"area": "Machine Learning",
-		"deadline": "2/24/2017 23:59 UTC",
+		"deadline": "2/9/2018 23:59 UTC",
 		"conference_dates":
 		{
 			"start": "07/10/2018",
@@ -162,7 +162,12 @@
 		"venue": "ISMIR",
 		"area": "Music-related information retrieval",
 		"deadline": "4/21/2017 23:59 UTC",
-		"link": "https://ismir2017.smcnus.org/",
-		"location": "Suzhou, China"
+		"conference_dates":
+		{
+			"start": "09/23/2018",
+			"end": "09/28/2018"
+		}
+		"link": "http://ismir2018.ircam.fr/",
+		"location": "Paris, France"
 	}
 ]
