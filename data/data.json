@@ -41,11 +41,16 @@
 		"venue": "AISTATS",
 		"area": "Machine Learning",
 		"deadline": "10/13/2017",
+		"conference_dates":
+		{
+			"start": "04/9/2018",
+			"end": "04/11/2018"
+		},
 		"link": "http://www.aistats.org/",
 		"location": "Playa Blanca, Lanzarote"
 	},
 	{
-    		"venue": "ESANN",
+    	"venue": "ESANN",
 		"area": "European Symposium on Artificial Neural Networks",
     		"deadline": "11/20/2017 23:59",
 		"conference_dates":
@@ -65,18 +70,23 @@
 	{
 		"venue": "ACML",
 		"area": "Machine Learning",
-		"deadline": "8/05/2017 23:59 UTC-8",
-		"link": "http://www.acml-conf.org/2017/"
+		"deadline": "8/01/2018 23:59 UTC-8",
+		"conference_dates":
+		{
+			"start": "11/14/2018",
+			"end": "11/16/2018"
+		},
+		"link": "http://www.acml-conf.org/2018/"
 	},
 	{
-		"venue": "ECML-PKDD (Journal Track)",
+		"venue": "ECML-PKDD",
 		"area": "Machine Learning",
 		"conference_dates":
 		{
 			"start": "09/10/2018",
 			"end": "09/14/2018"
 		},
-		"deadline": "11/5/2017 23:59",
+		"deadline": "04/12/2018 23:59 UTC-12",
 		"link": "http://www.ecmlpkdd2018.org/",
 		"location": "Dublin, Ireland"
 	},
@@ -84,15 +94,26 @@
 		"venue": "NIPS",
 		"area": "Machine Learning",
 		"deadline": "05/19/2017 20:00 UTC",
+		"conference_dates":
+		{
+			"start": "12/3/2018",
+			"end": "12/8/2018"
+		},
+		
 		"link": "https://nips.cc/Conferences/2018",
 		"location": "Montréal CANADA"
 	},
 	{
 		"venue": "MLSP",
 		"area": "Machine Learning for Signal Processing",
-		"deadline": "5/28/2017 23:59:59 UTC",
-		"link": "http://mlsp2017.conwiz.dk/",
-		"location": "Roppongi, Tokyo, Japan"
+		"deadline": "5/1/2018 23:59:59 UTC",
+		"conference_dates":
+		{
+			"start": "09/17/2018",
+			"end": "09/20/2018"
+		},
+		"link": "http://mlsp2018.conwiz.dk/",
+		"location": "Aalborg, Denmark"
 	},
 	{
 		"venue": "IJCAI-ECAI",
@@ -133,9 +154,14 @@
 	{
 		"venue": "UAI",
 		"area": "Machine Learning",
-		"deadline": "3/31/2017 23:59 UTC-11",
+		"deadline": "3/9/2018 23:59 UTC-11",
 		"link": "http://auai.org/",
-		"location": "Sydney, Australia"
+		"location": "Monterey, California, USA",
+		"conference_dates":
+		{
+			"start": "08/06/2018",
+			"end": "08/10/2018"
+		}
 	},
 	{
 		"venue": "CVPR",
@@ -150,29 +176,10 @@
 		"location": "Salt Lake City, Utah"
 	},
 	{
-		"venue": "CIKM",
-		"area": "Information and knowledge management",
-		"deadline": "05/16/2017 23:59 UTC",
-		"link": "http://cikm2017.org/#firstPage",
-		"location": "Pan Pacific Singapore"
-	},
-	{
 		"venue": "IDA",
 		"area": "Data Mining",
 		"deadline": "05/19/2017 23:59 UTC",
 		"link": "http://www.dcs.bbk.ac.uk/ida2017/",
 		"location": "London, UK"
-	},
-	{
-		"venue": "ISMIR",
-		"area": "Music-related information retrieval",
-		"deadline": "4/21/2017 23:59 UTC",
-		"conference_dates":
-		{
-			"start": "09/23/2018",
-			"end": "09/28/2018"
-		},
-		"link": "http://ismir2018.ircam.fr/",
-		"location": "Paris, France"
 	}
 ]
