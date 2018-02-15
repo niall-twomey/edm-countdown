@@ -1,5 +1,17 @@
 [
 	{
+		"venue": "MLHC",
+		"area": "Machine Learning for Healthcare",
+		"link": "https://www.mlforhc.org/",
+		"location": "Stanford University, Stanford, CA",
+		"deadline": "04/20/2018 18:00 UTC-5",
+		"conference_dates":
+		{
+			"start": "08/17/2018",
+			"end": "08/18/2018"
+		}
+	},
+	{
 		"venue": "SDM",
 		"area": "Data Mining",
 		"deadline": "10/13/2017 23:59 UTC-8",
