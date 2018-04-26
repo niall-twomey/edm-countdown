@@ -21,14 +21,14 @@
 	{
 		"venue": "ICDM",
 		"area": "Data Mining",
-		"deadline": "11/17/2017",
+		"deadline": "06/15/2018 23:59 UTC-8",
 		"conference_dates":
 		{
-			"start": "07/23/2018",
-			"end": "07/24/2018"
+			"start": "11/17/2018",
+			"end": "11/20/2018"
 		},
-		"link": "https://www.waset.org/conference/2018/07/istanbul/ICDM",
-		"location": "Istanbul, Turkey"
+		"link": "http://icdm2018.org/",
+		"location": "Singapore"
 	},
 	{
 		"venue": "AAAI",
