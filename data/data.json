@@ -199,23 +199,23 @@
 		"area": "Discovery Science",
 		"link": "http://www.cyprusconferences.org/ds2018/",
 		"location": "Limassol, Cyprus",
-		"deadline": "18/06/2018",
+		"deadline": "06/18/2018",
 		"conference_dates":
 		{
-		"start": "30/10/2018",
-		"end": "31/10/2018"
+		"start": "10.30/2018",
+		"end": "10/31/2018"
 		}
 	},
 	{
 		"venue": "ISMIS",
-		"area": "Methodologies for Intelligent Systems",
+		"area": "AI",
 		"link": "http://cyprusconferences.org/ismis2018/",
 		"location": "Limassol, Cyprus",
 		"deadline": "10/05/2018",
 		"conference_dates":
 		{
-		"start": "29/10/2018",
-		"end": "31/10/2018"
+		"start": "10/29/2018",
+		"end": "10/31/2018"
 		}
 	}
 		
