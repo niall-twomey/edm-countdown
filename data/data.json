@@ -217,6 +217,17 @@
 		"start": "10/29/2018",
 		"end": "10/31/2018"
 		}
-	}
-		
+	},
+	{
+		"venue": "CIKM (Abstract)",
+		"area": "Data Mining",
+		"link": "http://www.cikm2018.units.it/callforpaper.html",
+		"location": "Turin, Italy",
+		"deadline": "05/15/2018",
+		"conference_dates":
+		{
+		"start": "10/22/2018",
+		"end": "10/26/2018"
+		}
+	}	
 ]
