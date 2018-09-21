@@ -64,11 +64,11 @@
 	{
     	"venue": "ESANN",
 		"area": "European Symposium on Artificial Neural Networks",
-    		"deadline": "11/20/2017 23:59",
+    		"deadline": "11/19/2018 23:59",
 		"conference_dates":
 		{
-			"start": "04/25/2018",
-			"end": "04/27/2018"
+			"start": "04/24/2019",
+			"end": "04/26/2019"
 		},
 		"link": "https://www.elen.ucl.ac.be/esann/",
 		"location": "Bruges, Belgium"
