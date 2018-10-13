@@ -142,14 +142,14 @@
 	{
 		"venue": "ICML",
 		"area": "Machine Learning",
-		"deadline": "2/9/2018 23:59 UTC",
+		"deadline": "1/18/2018 23:59 UTC",
 		"conference_dates":
 		{
-			"start": "07/10/2018",
-			"end": "07/15/2018"
+			"start": "06/10/2018",
+			"end": "06/15/2018"
 		},
 		"link": "http://icml.cc",
-		"location": "Stockholm SWEDEN"
+		"location": "Long Beach, CA, USA"
 	},
 	{
 		"venue": "KDD",
