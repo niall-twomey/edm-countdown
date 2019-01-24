@@ -154,11 +154,11 @@
 	{
 		"venue": "KDD",
 		"area": "Data Mining",
-		"deadline": "2/11/2018 23:59 UTC-8",
+		"deadline": "2/3/2019 23:59 UTC-8",
 		"conference_dates":
 		{
-			"start": "08/3/2019",
-			"end": "08/7/2019"
+			"start": "08/4/2019",
+			"end": "08/8/2019"
 		},
 		"link": "http://www.kdd.org/kdd2019",
 		"location": "Anchorage, Alaska - USA"
