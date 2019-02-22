@@ -103,12 +103,12 @@
 		"location": "Würzburg, Germany"
 	},
 	{
-		"venue": "NIPS",
+		"venue": "NeurIPS",
 		"area": "Machine Learning",
 		"deadline": "05/18/2018 13:00 UTC-7",
 		"conference_dates":
 		{
-			"start": "12/3/2018",
+			"start": "12/2/2018",
 			"end": "12/8/2018"
 		},
 		
