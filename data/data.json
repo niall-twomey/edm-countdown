@@ -103,17 +103,17 @@
 		"location": "Würzburg, Germany"
 	},
 	{
-		"venue": "NeurIPS",
+		"venue": "NeurIPS (Abstract 16/05/2019)",
 		"area": "Machine Learning",
-		"deadline": "05/18/2018 13:00 UTC-7",
+		"deadline": "05/23/2019 18:00 UTC-7",
 		"conference_dates":
 		{
-			"start": "12/2/2018",
-			"end": "12/8/2018"
+			"start": "12/8/2019",
+			"end": "12/14/2019"
 		},
 		
-		"link": "https://nips.cc/Conferences/2018",
-		"location": "Montréal CANADA"
+		"link": "https://nips.cc/",
+		"location": "Vancouver CANADA"
 	},
 	{
 		"venue": "MLSP",
