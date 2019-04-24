@@ -127,7 +127,7 @@ function refreshDeadline(i, dl, dc, deadlines__){
   }
 
   if("format" in dl) {
-    format = "<div class=\"cd\"> Format" " + format + "</div>"
+    format = "<div class=\"cd\"> Format: " + format + "</div>"
   } else {
     format = "";
   }
