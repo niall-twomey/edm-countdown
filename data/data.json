@@ -1,7 +1,8 @@
 [
 	{
 		"venue": "MLHC",
-		"area": "Machine Learning for Healthcare",
+		"venue_long": "Machine Learning for Healthcare",
+		"area": "Machine Learning; Healthcare",
 		"link": "https://www.mlforhc.org/",
 		"location": "Ann Arbor, MI",
 		"deadline": "03/29/2019 18:00 UTC-5",
