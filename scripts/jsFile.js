@@ -109,7 +109,7 @@ function refreshDeadline(i, dl, dc, deadlines__){
   }
   
   if("abstract_deadline" in dl) {
-    abstractDeadline = "<div class=\"td\"> Abstracts: " + dl.abstract_deadline.toUTCString() + "</div>"
+    abstractDeadline = "<div class=\"td\"> Abstracts: " + new Date(dl.abstract_deadline).toUTCString() + "</div>"
   } else {
     abstractDeadline = "";
   }
