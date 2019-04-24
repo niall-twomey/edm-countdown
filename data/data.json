@@ -14,7 +14,14 @@
 	{
 		"venue": "SDM",
 		"area": "Data Mining",
-		"deadline": "10/05/2018 23:59 UTC-8",
+		"abstract_deadline": "10/05/2018 23:59 UTC-8",
+		"deadline": "10/12/2018 23:59 UTC-8",
+		"conference_dates":
+		{
+			"start": "05/02/2019",
+			"end": "05/04/2019"
+		},
+
 		"link": "https://www.siam.org/Conferences/CM/Main/sdm19",
 		"location": "Calgary, Alberta, Canada"
 	},
@@ -62,7 +69,7 @@
 		"location": "Okinawa, Japan"
 	},
 	{
-    	"venue": "ESANN",
+    		"venue": "ESANN",
 		"area": "European Symposium on Artificial Neural Networks",
     		"deadline": "11/19/2018 23:59",
 		"conference_dates":
@@ -74,10 +81,16 @@
 		"location": "Bruges, Belgium"
 	},
 	{
-		"venue": "SPARS (not till 2019!)",
+		"venue": "SPARS",
 		"area": "Signal Processing with Adaptive Sparse Structured Representations",
-		"deadline": "01/03/2017",
-		"link": "http://spars2017.lx.it.pt/"
+		"deadline": "04/01/2018",
+		"conference_dates":
+		{
+			"start": "07/01/2019",
+			"end": "07/04/2019"
+		},
+		"link": "http://www.spars-workshop.org/en/index.html",
+		"location": "Toulouse, France"
 	},
 	{
 		"venue": "ACML",
@@ -103,8 +116,9 @@
 		"location": "Würzburg, Germany"
 	},
 	{
-		"venue": "NeurIPS (Abstract 16/05/2019)",
+		"venue": "NeurIPS",
 		"area": "Machine Learning",
+		"abstract_deadline": "05/16/2019 18:00 UTC-7",
 		"deadline": "05/23/2019 18:00 UTC-7",
 		"conference_dates":
 		{
@@ -188,46 +202,16 @@
 		"location": "Long Beach, CA, USA"
 	},
 	{
-		"venue": "IDA",
+		"venue": "CIKM",
 		"area": "Data Mining",
-		"deadline": "05/19/2017 23:59 UTC",
-		"link": "http://www.dcs.bbk.ac.uk/ida2017/",
-		"location": "London, UK"
-	},
-	{
-		"venue": "DS",
-		"area": "Discovery Science",
-		"link": "http://www.cyprusconferences.org/ds2018/",
-		"location": "Limassol, Cyprus",
-		"deadline": "06/18/2018",
+		"link": "http://www.cikm2019.net/callforpapers.html",
+		"location": "Beijing, China",
+		"abstract_deadline": "05/15/2018 23:59 UTC-12",
+		"deadline": "05/22/2018 23:59 UTC-12",
 		"conference_dates":
 		{
-		"start": "10.30/2018",
-		"end": "10/31/2018"
-		}
-	},
-	{
-		"venue": "ISMIS",
-		"area": "AI",
-		"link": "http://cyprusconferences.org/ismis2018/",
-		"location": "Limassol, Cyprus",
-		"deadline": "05/10/2018",
-		"conference_dates":
-		{
-		"start": "10/29/2018",
-		"end": "10/31/2018"
-		}
-	},
-	{
-		"venue": "CIKM (Abstract)",
-		"area": "Data Mining",
-		"link": "http://www.cikm2018.units.it/callforpaper.html",
-		"location": "Turin, Italy",
-		"deadline": "05/15/2018",
-		"conference_dates":
-		{
-		"start": "10/22/2018",
-		"end": "10/26/2018"
+		"start": "10/03/2019",
+		"end": "10/07/2019"
 		}
 	}	
 ]
