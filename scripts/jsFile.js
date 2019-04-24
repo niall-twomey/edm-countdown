@@ -97,12 +97,21 @@ function refreshDeadline(i, dl, dc, deadlines__){
   if("location" in dl)
     venue = venue + "  (" + dl.location + ")";
 
-  if("venue_long" in dl)
-    venue = venue + "<br/>" + dl.venue_long;
-  
   if("link" in dl)
     venue = "<span class=\"vld\" id=\"link"+suffix+i+"\">" + venue + "</span>";
 
+  if("venue_long" in dl) {
+    venueLong = "<div class=\"ad\">" + dl.venue_long + "</div>";
+  } else {
+    venueLong = "";
+  }
+  
+  if("area" in dl) {
+    area = "<div class=\"ad\">" + dl.area + "</div>";
+  } else {
+    area = "";
+  }
+  
   if("conference_dates" in dl) {
     conferenceDates =
       new Date(dl.conference_dates.start).toDateString().slice(0, -5) + " to "
@@ -118,7 +127,7 @@ function refreshDeadline(i, dl, dc, deadlines__){
   }
 
   if("format" in dl) {
-    format = <div class=\"cd\"> Format" " + format + "</div>"
+    format = "<div class=\"cd\"> Format" " + format + "</div>"
   } else {
     format = "";
   }
@@ -126,7 +135,8 @@ function refreshDeadline(i, dl, dc, deadlines__){
   $("#deadline" + suffix + i).html(
     "<div class=\"tld\">" + timeLeftDescription(timeLeft) + "</div>"
   + "<div class=\"vd\">" + venue + "</div>"
-  + "<div class=\"ad\">" + dl.area + "</div>"
+  + venueLong
+  + area
   + abstractDeadline
   + "<div class=\"td\"> Deadline: " + dl.deadline.toUTCString() + "</div>"
   + "<div class=\"cd\"> Conference Dates: " + conferenceDates + "</div>"
