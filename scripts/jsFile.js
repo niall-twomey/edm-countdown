@@ -98,7 +98,7 @@ function refreshDeadline(i, dl, dc, deadlines__){
     venue = venue + "  (" + dl.location + ")";
 
   if("venue_long" in dl)
-    venue = venue + "<br/>dl.venue_long";
+    venue = venue + "<br/>" + dl.venue_long;
   
   if("link" in dl)
     venue = "<span class=\"vld\" id=\"link"+suffix+i+"\">" + venue + "</span>";
