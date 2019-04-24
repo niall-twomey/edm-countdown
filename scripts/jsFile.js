@@ -101,19 +101,26 @@ function refreshDeadline(i, dl, dc, deadlines__){
     venue = "<span class=\"vld\" id=\"link"+suffix+i+"\">" + venue + "</span>";
 
   if("conference_dates" in dl) {
-    conference_dates =
+    conferenceDates =
       new Date(dl.conference_dates.start).toDateString().slice(0, -5) + " to "
       + new Date(dl.conference_dates.end).toDateString();
   } else {
-    conference_dates = "Not known";
+    conferenceDates = "Not known";
+  }
+  
+  if("abstract_deadline" in dl) {
+    abstractDeadline = dl.abstract_deadline.toUTCString();
+  } else {
+    abstractDeadline = "None";
   }
 
   $("#deadline" + suffix + i).html(
     "<div class=\"tld\">" + timeLeftDescription(timeLeft) + "</div>"
   + "<div class=\"vd\">" + venue + "</div>"
   + "<div class=\"ad\">" + dl.area + "</div>"
+  + "<div class=\"td\"> Abstract Deadline: " + abstractDeadline + "</div>"
   + "<div class=\"td\"> Deadline: " + dl.deadline.toUTCString() + "</div>"
-  + "<div class=\"cd\"> Conference Dates: " + conference_dates + "</div>"
+  + "<div class=\"cd\"> Conference Dates: " + conferenceDates + "</div>"
   + "<div class=\"wd\">" + warningString + "</div>"
   + "<div class=\"hd\" id=\"hide"+suffix+i+"\">hide</div>"
   );
