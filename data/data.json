@@ -2,7 +2,6 @@
 	{
 		"venue": "MLHC",
 		"venue_long": "Machine Learning for Healthcare",
-		"area": "Machine Learning; Healthcare",
 		"link": "https://www.mlforhc.org/",
 		"location": "Ann Arbor, MI",
 		"deadline": "03/29/2019 18:00 UTC-5",
@@ -14,6 +13,7 @@
 	},
 	{
 		"venue": "SDM",
+		"venue_long": "SIAM International Conference on Data Mining",
 		"area": "Data Mining",
 		"abstract_deadline": "10/05/2018 23:59 UTC-8",
 		"deadline": "10/12/2018 23:59 UTC-8",
@@ -69,7 +69,8 @@
 	},
 	{
 	    "venue": "ICLR",
-	    "area": "Learning Representations",
+	    "venue_long": "International Conference on Learning Representations",
+	    "area": "Deep Learning",
 	    "deadline": "09/27/2018 18:00 UTC-5",
 			"conference_dates":
 			{
@@ -93,7 +94,8 @@
 	},
 	{
     		"venue": "ESANN",
-		"area": "European Symposium on Artificial Neural Networks",
+		"venue_long": "European Symposium on Artificial Neural Networks",
+		"area": "Machine Learning",
     		"deadline": "11/19/2018 23:59",
 		"conference_dates":
 		{
@@ -105,7 +107,8 @@
 	},
 	{
 		"venue": "SPARS",
-		"area": "Signal Processing with Adaptive Sparse Structured Representations",
+		"venue_long": "Signal Processing with Adaptive Sparse Structured Representations",
+		"area": "Signal Processing; Sparsity",
 		"deadline": "04/01/2018",
 		"conference_dates":
 		{
@@ -117,6 +120,7 @@
 	},
 	{
 		"venue": "ACML",
+		"venue_long": "Asian Conference on Machine Learning",
 		"area": "Machine Learning",
 		"deadline": "8/01/2018 23:59 UTC-8",
 		"conference_dates":
@@ -154,7 +158,7 @@
 	},
 	{
 		"venue": "MLSP",
-		"area": "Machine Learning for Signal Processing",
+		"venue_long": "Machine Learning for Signal Processing",
 		"deadline": "6/5/2019 23:59:59 UTC",
 		"conference_dates":
 		{
@@ -214,6 +218,7 @@
 	},
 	{
 		"venue": "CVPR",
+		"venue_long": "IEEE Conference on Computer Vision and Pattern Recognition",
 		"area": "Computer Vision",
 		"deadline": "11/16/2018 23:59 PST",
 		"conference_dates":
@@ -226,6 +231,7 @@
 	},
 	{
 		"venue": "CIKM",
+		"venue_long": "ACM International Conference on Information and Knowledge Management",
 		"area": "Data Mining",
 		"link": "http://www.cikm2019.net/callforpapers.html",
 		"location": "Beijing, China",
