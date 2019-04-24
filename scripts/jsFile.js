@@ -117,6 +117,12 @@ function refreshDeadline(i, dl, dc, deadlines__){
     abstractDeadline = "";
   }
 
+  if("format" in dl) {
+    format = <div class=\"cd\"> Format" " + format + "</div>"
+  } else {
+    format = "";
+  }
+  
   $("#deadline" + suffix + i).html(
     "<div class=\"tld\">" + timeLeftDescription(timeLeft) + "</div>"
   + "<div class=\"vd\">" + venue + "</div>"
@@ -124,6 +130,7 @@ function refreshDeadline(i, dl, dc, deadlines__){
   + abstractDeadline
   + "<div class=\"td\"> Deadline: " + dl.deadline.toUTCString() + "</div>"
   + "<div class=\"cd\"> Conference Dates: " + conferenceDates + "</div>"
+  + format
   + "<div class=\"wd\">" + warningString + "</div>"
   + "<div class=\"hd\" id=\"hide"+suffix+i+"\">hide</div>"
   );
