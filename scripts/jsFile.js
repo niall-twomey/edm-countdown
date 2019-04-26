@@ -133,13 +133,13 @@ function refreshDeadline(i, dl, dc, deadlines__){
   }
   
   if ("camera_ready" in dl) {
-    cameraReady = "<div class=\"td\"> Camera Ready: " + new Date(dl.camera_ready).toUTCString() + "</div>"
+    cameraReady = "<div class=\"td\"> Camera Ready: " + new Date(dl.camera_ready).toDateString() + "</div>"
   } else {
     cameraReady = "";
   }
 
   if ("notification" in dl) {
-    notification = "<div class=\"td\"> Notification: " + new Date(dl.camera_ready).toUTCString() + "</div>"
+    notification = "<div class=\"td\"> Notification: " + new Date(dl.notification).toDateString() + "</div>"
   } else {
     notification = "";
   }
