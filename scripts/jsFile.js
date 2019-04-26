@@ -94,13 +94,13 @@ function refreshDeadline(i, dl, dc, deadlines__){
 
   var venue = dl.venue;
 
-  if("location" in dl)
+  if ("location" in dl)
     venue = venue + "  (" + dl.location + ")";
 
-  if("link" in dl)
+  if ("link" in dl)
     venue = "<span class=\"vld\" id=\"link"+suffix+i+"\">" + venue + "</span>";
 
-  if("venue_long" in dl) {
+  if ("venue_long" in dl) {
     venueLong = "<div class=\"ad\">" + dl.venue_long + "</div>";
   } else {
     venueLong = "";
@@ -112,7 +112,7 @@ function refreshDeadline(i, dl, dc, deadlines__){
     area = "";
   }
   
-  if("conference_dates" in dl) {
+  if ("conference_dates" in dl) {
     conferenceDates =
       new Date(dl.conference_dates.start).toDateString().slice(0, -5) + " to "
       + new Date(dl.conference_dates.end).toDateString();
@@ -120,17 +120,30 @@ function refreshDeadline(i, dl, dc, deadlines__){
     conferenceDates = "Not known";
   }
   
-  if("abstract_deadline" in dl) {
+  if ("abstract_deadline" in dl) {
     abstractDeadline = "<div class=\"td\"> Abstracts: " + new Date(dl.abstract_deadline).toUTCString() + "</div>"
   } else {
     abstractDeadline = "";
   }
 
-  if("format" in dl) {
+  if ("format" in dl) {
     format = "<div class=\"cd\"> Format: " + dl.format + "</div>"
   } else {
     format = "";
   }
+  
+  if ("camera_ready" in dl) {
+    cameraReady = "<div class=\"td\"> Camera Ready: " + new Date(dl.camera_ready).toUTCString() + "</div>"
+  } else {
+    cameraReady = "";
+  }
+
+  if ("notification" in dl) {
+    notification = "<div class=\"td\"> Notification: " + new Date(dl.camera_ready).toUTCString() + "</div>"
+  } else {
+    notification = "";
+  }
+
   
   $("#deadline" + suffix + i).html(
     "<div class=\"tld\">" + timeLeftDescription(timeLeft) + "</div>"
@@ -139,6 +152,8 @@ function refreshDeadline(i, dl, dc, deadlines__){
   + area
   + abstractDeadline
   + "<div class=\"td\"> Deadline: " + dl.deadline.toUTCString() + "</div>"
+  + notification
+  + cameraReady
   + "<div class=\"cd\"> Conference Dates: " + conferenceDates + "</div>"
   + format
   + "<div class=\"wd\">" + warningString + "</div>"
