@@ -171,39 +171,39 @@
 	{
 		"venue": "ICML",
 		"area": "Machine Learning",
-		"deadline": "1/18/2019 23:59 UTC",
+		"deadline": "2/07/2020 11:59 GMT",
 		"conference_dates":
 		{
-			"start": "06/10/2019",
-			"end": "06/15/2019"
+			"start": "07/12/2020",
+			"end": "07/18/2020"
 		},
 		"link": "http://icml.cc",
-		"location": "Long Beach, CA, USA"
+		"location": "Vienna, Austria"
 	},
 	{
 		"venue": "KDD",
 		"area": "Data Mining",
-		"deadline": "2/3/2019 23:59 UTC-8",
+		"deadline": "2/14/2020 10:59 GMT",
 		"conference_dates":
 		{
-			"start": "08/4/2019",
-			"end": "08/8/2019"
+			"start": "08/22/2020",
+			"end": "08/27/2020"
 		},
-		"notification": "4/28/2019",
-		"camera_ready": "5/17/2019",
-		"link": "http://www.kdd.org/kdd2019",
-		"location": "Anchorage, Alaska - USA"
+		"notification": "",
+		"camera_ready": "",
+		"link": "http://www.kdd.org/kdd2020",
+		"location": "San Diego, California, USA"
 	},
 	{
 		"venue": "UAI",
 		"area": "Machine Learning",
-		"deadline": "3/4/2019 23:59 UTC-11",
+		"deadline": "2/21/2020 04:59 GMT",
 		"link": "http://auai.org/",
-		"location": "Tel Aviv, Israel",
+		"location": "Toronto, Canada",
 		"conference_dates":
 		{
-			"start": "07/22/2019",
-			"end": "07/26/2019"
+			"start": "07/3/2020",
+			"end": "07/6/2020"
 		}
 	},
 	{
