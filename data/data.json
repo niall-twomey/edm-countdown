@@ -249,5 +249,21 @@
 		"start": "04/27/2020",
 		"end": "04/29/2020"
 		}
+	},
+	{
+		"venue": "ECAI",
+		"venue_long": "European Conference on Artificial Intelligence",
+		"area": "Artificial Intelligence",
+		"link": "http://ecai2020.eu/",
+		"location": "Santiago de Compostela, Spain",
+		"abstract_deadline": "11/15/2019 23:59 UTC-12",
+		"deadline": "11/19/2019 23:59 UTC-12",
+		"notification": "01/15/2020",
+		"camera_ready": "02/20/2020",
+		"conference_dates":
+		{
+		"start": "08/28/2020",
+		"end": "09/2/2020"
+		}
 	}
 ]
