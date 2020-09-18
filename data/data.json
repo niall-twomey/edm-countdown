@@ -69,9 +69,10 @@
 	    "venue": "ICLR",
 	    "venue_long": "International Conference on Learning Representations",
 	    "area": "Deep Learning",
-	    "deadline": "09/25/2019 18:00 UTC+3",
+	    "abstract_deadline": "09/28/2020 08:00 UTC-7",
+	    "deadline": "10/02/2020 08:00 UTC-7",
 	    "link": "http://www.iclr.cc/",
-		"location": "Addis Ababa, Ehtiopia"
+		"location": "Vienna, Austria"
 	},
 	{
 		"venue": "AISTATS",
