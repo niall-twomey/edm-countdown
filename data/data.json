@@ -3,12 +3,12 @@
 		"venue": "MLHC",
 		"venue_long": "Machine Learning for Healthcare",
 		"link": "https://www.mlforhc.org/",
-		"location": "Durham, NC",
-		"deadline": "4/3/2020 17:00 UTC-7",
+		"location": "Virtual and Hybrid",
+		"deadline": "3/19/2021 17:00 EDT",
 		"conference_dates":
 		{
-			"start": "08/06/2020",
-			"end": "08/18/2020"
+			"start": "08/06/2021",
+			"end": "08/7/2021"
 		}
 	},
 	{
@@ -126,16 +126,16 @@
 		"link": "http://www.acml-conf.org/2018/"
 	},
 	{
-		"venue": "ECML-PKDD",
+		"venue": "ECML-PKDD (journal track)",
 		"area": "Machine Learning",
 		"conference_dates":
 		{
-			"start": "09/14/2020",
-			"end": "09/18/2020"
+			"start": "09/13/2021",
+			"end": "09/17/2021"
 		},
-		"deadline": "04/02/2020 23:59 UTC-12",
+		"deadline": "01/31/2021 23:59 UTC+1",
 		"link": "http://www.ecmlpkdd.org/",
-		"location": "Ghent, Belgium"
+		"location": "Bilbao, Basque Country (Spain)"
 	},
 	{
 		"venue": "NeurIPS",
@@ -166,51 +166,53 @@
 	{
 		"venue": "IJCAI",
 		"area": "AI",
-		"deadline": "1/21/2020 23:59 UTC-12",
+		"abstract_deadline": "01/13/2021 23:59 UTC-12",
+		"deadline": "01/20/2021 23:59 UTC-12",
 		"conference_dates":
 		{
-			"start": "07/11/2020",
-			"end": "07/17/2020"
+			"start": "08/21/2021",
+			"end":   "08/26/2021"
 		},
 		"link": "https://www.ijcai.org/",
-		"location": "Yokohama, Japan"
+		"location": "Montreal, Canada"
 	},
 	{
 		"venue": "ICML",
 		"area": "Machine Learning",
-		"deadline": "2/07/2020 11:59 GMT",
+		"abstract_deadline": "01/28/2021 23:59 UTC-12",
+		"deadline": "2/04/2021 23:59 UTC-12",
 		"conference_dates":
 		{
-			"start": "07/12/2020",
-			"end": "07/18/2020"
+			"start": "07/18/2021",
+			"end": "07/24/2021"
 		},
 		"link": "http://icml.cc",
-		"location": "Vienna, Austria"
+		"location": "Virtual Only"
 	},
 	{
 		"venue": "KDD",
 		"area": "Data Mining",
-		"deadline": "2/14/2020 10:59 GMT",
+		"deadline": "2/8/2021 10:59 GMT",
 		"conference_dates":
 		{
-			"start": "08/22/2020",
-			"end": "08/27/2020"
+			"start": "08/14/2021",
+			"end": "08/18/2021"
 		},
-		"notification": "",
-		"camera_ready": "",
-		"link": "http://www.kdd.org/kdd2020",
-		"location": "San Diego, California, USA"
+		"notification": "5/17/2021 10:59 GMT",
+		"camera_ready": "6/17/2021 10:59 GMT",
+		"link": "http://www.kdd.org",
+		"location": "Singapore"
 	},
 	{
 		"venue": "UAI",
 		"area": "Machine Learning",
-		"deadline": "2/21/2020 04:59 GMT",
+		"deadline": "2/19/2021 23:59 UTC",
 		"link": "http://auai.org/",
-		"location": "Toronto, Canada",
+		"location": "Virtual Only",
 		"conference_dates":
 		{
-			"start": "07/3/2020",
-			"end": "07/6/2020"
+			"start": "07/27/2021",
+			"end":   "07/30/2021"
 		}
 	},
 	{
@@ -230,16 +232,16 @@
 		"venue": "CIKM",
 		"venue_long": "ACM International Conference on Information and Knowledge Management",
 		"area": "Data Mining",
-		"link": "http://www.cikm2019.net/callforpapers.html",
-		"location": "Beijing, China",
+		"link": "http://www.cikmconference.org/",
+		"location": "Gold coast, Queensland, Australia",
 		"abstract_deadline": "05/15/2019 23:59 UTC-12",
 		"deadline": "05/22/2019 23:59 UTC-12",
 		"notification": "08/06/2019",
 		"camera_ready": "08/27/2019",
 		"conference_dates":
 		{
-		"start": "10/03/2019",
-		"end": "10/07/2019"
+		"start": "11/01/2021",
+		"end": "11/05/2021"
 		}
 	},
 	{
