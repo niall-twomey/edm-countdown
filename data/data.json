@@ -110,18 +110,33 @@
     "location": "Bruges, Belgium"
   },
   {
+    "venue": "ICANN",
+    "venue_long": "International Conference on Artificial Neural Networks",
+    "area": "Machine Learning and Brain inspierd computing",
+    "deadline": "03/15/2021 23:59 UTC-7",
+    "conference_dates": {
+      "start": "09/14/2021",
+      "end": "09/17/2021"
+    },
+    "notification": "05/01/2021",
+    "camera_ready": "06/01/2021",
+    "link": "https://e-nns.org/",
+    "location": "Bratislava, Slovakia",
+    "format": "12 pages, Springer-Verlag Lecture Notes in Computer Science (LNCS), inc. references"
+  },
+  {
     "venue": "ICDM",
     "venue_long": "IEEE International Conference on Data Mining",
     "area": "Data Mining",
-    "deadline": "06/05/2019 23:59 UTC-7",
+    "deadline": "06/11/2021 23:59 GMT-8",
     "conference_dates": {
-      "start": "11/08/2019",
-      "end": "11/11/2018"
+      "start": "12/07/2021",
+      "end": "12/10/2021"
     },
-    "notification": "08/08/2019",
-    "camera_ready": "09/08/2019",
-    "link": "http://icdm2019.bigke.org/",
-    "location": "Beijing, China",
+    "notification": "08/31/2021 23:59 GMT-8",
+    "camera_ready": "10/01/2021 23:59 GMT-8",
+    "link": "https://icdm2021.auckland.ac.nz/",
+    "location": "Auckland, New Zealand",
     "format": "10 pages, IEEE 2-column format, inc. bibliography and appendices"
   },
   {
