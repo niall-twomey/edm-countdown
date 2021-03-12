@@ -213,13 +213,13 @@
   {
     "venue": "MLSP",
     "venue_long": "Machine Learning for Signal Processing",
-    "deadline": "6/5/2019 23:59:59 UTC",
+    "deadline": "05/30/2021 23:59:59 PST",
     "conference_dates": {
-      "start": "10/13/2019",
-      "end": "10/16/2019"
+      "start": "10/25/2021",
+      "end": "10/28/2021"
     },
     "link": "https://www.ieeemlsp.cc/",
-    "location": "Aalborg, Denmark"
+    "location": "Gold Coast, Queensland, Australia"
   },
   {
     "venue": "NeurIPS",
