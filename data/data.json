@@ -26,5 +26,33 @@
 			"start": "2 July 2022",
 			"end": "4 July 2022"
 		}
+	},
+	{
+		"venue": "UMAP",
+		"venue_long": "International Conference on User Modeling, Adaptation and Personalization",
+		"link": "https://www.um.org/umap2021/",
+		"area": "EDM",
+		"abstract_deadline": "17 Jan 2022, 23:59 UTC-10",
+		"deadline": "24 Jan 2022, 23:59 UTC-10",
+		"notifications": "8 Mar 2022, 23:59 UTC-10",
+		"location": "Utrecht, Netherlands",
+		"conference_dates": {
+			"start": "21 June 2022",
+			"end": "25 June 2022"
+		}
+	},
+	{
+		"venue": "ICCE",
+		"venue_long": "International Conference on Computers in Education",
+		"link": "https://icce2021.apsce.net/",
+		"area": "EDM",
+		"abstract_deadline": "31 May 2022, 23:59 UTC-10",
+		"deadline": "31 May 2022, 23:59 UTC-10",
+		"notifications": "12 July 2022, 23:59 UTC-10",
+		"location": "Virtual",
+		"conference_dates": {
+			"start": "22 November 2022",
+			"end": "26 November 2022"
+		}
 	}
 ]
