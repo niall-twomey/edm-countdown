@@ -1,4 +1,4 @@
-#### visit https://www.github.com/niall-twomey/edm-countdown/
+#### visit https://www.github.io/niall-twomey/edm-countdown/
 
 Before committing a new entry in data.json you can test the validity of your date string here:
 http://www.w3schools.com/js/tryit.asp?filename=tryjs_date_new_string
