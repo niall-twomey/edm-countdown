@@ -18,13 +18,13 @@
 		"venue_long": "International Conference on Artificial Intelligence in Education Technology",
 		"link": "http://www.aiet.org/",
 		"area": "EDM",
-		"abstract_deadline": "15 May 2022, 23:59 UTC-10",
-		"deadline": "15 May 2022, 23:59 UTC-10",
-		"notifications": "5 June 2022, 23:59 UTC-10",
+		"abstract_deadline": "15 May 2021, 23:59 UTC-10",
+		"deadline": "15 May 2021, 23:59 UTC-10",
+		"notifications": "5 June 2021, 23:59 UTC-10",
 		"location": "Wuhan, China",
 		"conference_dates": {
-			"start": "2 July 2022",
-			"end": "4 July 2022"
+			"start": "2 July 2021",
+			"end": "4 July 2021"
 		}
 	},
 	{
@@ -32,13 +32,13 @@
 		"venue_long": "International Conference on User Modeling, Adaptation and Personalization",
 		"link": "https://www.um.org/umap2021/",
 		"area": "EDM",
-		"abstract_deadline": "17 Jan 2022, 23:59 UTC-10",
-		"deadline": "24 Jan 2022, 23:59 UTC-10",
-		"notifications": "8 Mar 2022, 23:59 UTC-10",
+		"abstract_deadline": "17 Jan 2021, 23:59 UTC-10",
+		"deadline": "24 Jan 2021, 23:59 UTC-10",
+		"notifications": "8 Mar 2021, 23:59 UTC-10",
 		"location": "Utrecht, Netherlands",
 		"conference_dates": {
-			"start": "21 June 2022",
-			"end": "25 June 2022"
+			"start": "21 June 2021",
+			"end": "25 June 2021"
 		}
 	},
 	{
@@ -46,13 +46,13 @@
 		"venue_long": "International Conference on Computers in Education",
 		"link": "https://icce2021.apsce.net/",
 		"area": "EDM",
-		"abstract_deadline": "31 May 2022, 23:59 UTC-10",
-		"deadline": "31 May 2022, 23:59 UTC-10",
-		"notifications": "12 July 2022, 23:59 UTC-10",
+		"abstract_deadline": "31 May 2021, 23:59 UTC-10",
+		"deadline": "31 May 2021, 23:59 UTC-10",
+		"notifications": "12 July 2021, 23:59 UTC-10",
 		"location": "Virtual",
 		"conference_dates": {
-			"start": "22 November 2022",
-			"end": "26 November 2022"
+			"start": "22 November 2021",
+			"end": "26 November 2021"
 		}
 	},
 	{
@@ -62,7 +62,7 @@
 		"area": "EDM",
 		"abstract_deadline": "4 Oct 2021, 23:59 UTC-10",
 		"deadline": "4 Oct 2021, 23:59 UTC-10",
-		"notifications": "3 Dec 2022, 23:59 UTC-10",
+		"notifications": "3 Dec 2021, 23:59 UTC-10",
 		"location": "Virtual",
 		"conference_dates": {
 			"start": "21 March 2022",
