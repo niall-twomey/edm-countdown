@@ -54,5 +54,19 @@
 			"start": "22 November 2022",
 			"end": "26 November 2022"
 		}
-	}
+	},
+	{
+		"venue": "LAK",
+		"venue_long": "International Conference on Learning Analytics & Knowledge",
+		"link": "https://www.solaresearch.org/events/lak/lak22/",
+		"area": "EDM",
+		"abstract_deadline": "4 Oct 2021, 23:59 UTC-10",
+		"deadline": "4 Oct 2021, 23:59 UTC-10",
+		"notifications": "3 Dec 2022, 23:59 UTC-10",
+		"location": "Virtual",
+		"conference_dates": {
+			"start": "21 March 2022",
+			"end": "25 March 2022"
+		}
+	} 
 ]
