@@ -68,5 +68,19 @@
 			"start": "21 March 2022",
 			"end": "25 March 2022"
 		}
+	} ,
+	{
+		"venue": "ITS",
+		"venue_long": "International Conference on Intelligent Tutoring Systems",
+		"link": "https://its2021.iis-international.org/",
+		"area": "EDM",
+		"abstract_deadline": "31 Jan 2021, 23:59 UTC-10",
+		"deadline": "31 Jan 2021, 23:59 UTC-10",
+		"notifications": "12 Mar 2021, 23:59 UTC-10",
+		"location": "Athens, Greece ",
+		"conference_dates": {
+			"start": "7 June 2022",
+			"end": "11 June 2022"
+		}
 	} 
 ]
