@@ -68,7 +68,7 @@
 			"start": "21 March 2022",
 			"end": "25 March 2022"
 		}
-	} ,
+	},
 	{
 		"venue": "ITS",
 		"venue_long": "International Conference on Intelligent Tutoring Systems",
@@ -82,5 +82,19 @@
 			"start": "7 June 2022",
 			"end": "11 June 2022"
 		}
-	} 
+	},
+	{
+		"venue": "L@S",
+		"venue_long": "International Conference on Learning at Scale",
+		"link": "https://learningatscale.acm.org/las2022/",
+		"area": "EDM",
+		"abstract_deadline": "24 January 2022, 23:59 GMT+12",
+		"deadline": "31 January 2022, 23:59 GMT+12",
+		"notifications": "14 March 2022, 23:59 GMT+12",
+		"location": "Roosevelt Island, New York, USA ",
+		"conference_dates": {
+			"start": "1 June 2022",
+			"end": "3 June 2022"
+		}
+	}
 ]
