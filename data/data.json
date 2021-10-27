@@ -91,10 +91,24 @@
 		"abstract_deadline": "24 January 2022, 23:59 GMT+12",
 		"deadline": "31 January 2022, 23:59 GMT+12",
 		"notifications": "14 March 2022, 23:59 GMT+12",
-		"location": "Roosevelt Island, New York, USA ",
+		"location": "Roosevelt Island, New York, USA",
 		"conference_dates": {
 			"start": "1 June 2022",
 			"end": "3 June 2022"
+		}
+	},
+	{
+		"venue": "EC-TELS",
+		"venue_long": "European Conference for Technology-Enhanced Learning",
+		"link": "https://ea-tel.eu/ectel2021/",
+		"area": "EDM",
+		"abstract_deadline": "25 March 2021, 23:59 GMT+12",
+		"deadline": "15 April 2021, 23:59 GMT+12",
+		"notifications": "4 June 2021, 23:59 GMT+12",
+		"location": "Virtual (Bozen-Bolzano, Italy)",
+		"conference_dates": {
+			"start": "22 September 2021",
+			"end": "24 September 2021"
 		}
 	}
 ]
