@@ -124,5 +124,19 @@
 			"start": "27 July 2022",
 			"end": "31 July 2022"
 		}
+	},
+	{
+		"venue": "ICALT",
+		"venue_long": "International Conference on Advanced Learning Technologies",
+		"link": "https://tc.computer.org/tclt/icalt-2022/",
+		"area": "EDM",
+		"abstract_deadline": "14 January 2022, 23:59 GMT+12",
+		"deadline": "14 January 2022, 23:59 GMT+12",
+		"notifications": "1 April 2022, 23:59 GMT+12",
+		"location": "Leeds University (UK); possibly virtual",
+		"conference_dates": {
+			"start": "1 July 2022",
+			"end": "4 July 2022"
+		}
 	}
 ]
